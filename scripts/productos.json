@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "precio": 12.99,
+      "portada": "./images/cien.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "precio": 10.99,
+      "portada": "./images/1984.webp"
+    },
+    {
+      "id": 3,
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "genero": "Fábula",
+      "precio": 8.99,
+      "portada": "./images/elprincipito.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "genero": "Romance",
+      "precio": 9.99,
+      "portada": "./images/Orgullo.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "genero": "Drama",
+      "precio": 11.49,
+      "portada": "./images/matar.webp"
+    },
+    {
+      "id": 6,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "genero": "Aventura",
+      "precio": 14.99,
+      "portada": "./images/don.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Los miserables",
+      "autor": "Victor Hugo",
+      "genero": "Drama histórico",
+      "precio": 13.49,
+      "portada": "./images/losmis.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Crimen y castigo",
+      "autor": "Fiódor Dostoyevski",
+      "genero": "Psicológico",
+      "precio": 12.49,
+      "portada": "../images/crimen.webp"
+    },
+    {
+      "id": 9,
+      "titulo": "El hobbit",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasía",
+      "precio": 10.49,
+      "portada": "../images/hobbit.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "genero": "Épica",
+      "precio": 15.99,
+      "portada": "../images/odisea.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Harry Potter y la piedra filosofal",
+      "autor": "J.K. Rowling",
+      "genero": "Fantasía",
+      "precio": 9.99,
+      "portada": "../images/harry.webp"
+    }
+]
